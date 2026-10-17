@@ -26,12 +26,17 @@
 
 ## 快速开始
 
-### 方式一：下载压缩包（推荐给普通用户）
+### 方式一：下载现成压缩包（推荐给普通用户）
 
-1. 在仓库页面点 **Code → Download ZIP**
-2. 解压后，进入对应的目录：
-   - 苹果手机 → `iphone/`
-   - 安卓手机 → `android/`
+| 平台 | 直接下载 |
+|---|---|
+| 苹果手机 | [virtual-location-iphone.zip](https://github.com/KKkk-sk/virtual-location/releases/latest/download/virtual-location-iphone.zip) |
+| 安卓手机 | [virtual-location-android.zip](https://github.com/KKkk-sk/virtual-location/releases/latest/download/virtual-location-android.zip) |
+
+也可以点 **Code → Download ZIP** 下载源码包，解压后进入 `iphone/` 或 `android/` 目录。
+
+1. 下载并解压到硬盘
+2. 进入对应目录（苹果 → `iphone/`，安卓 → `android/`）
 3. 双击 **`安装.bat`**（会联网下载 Python、依赖、平台工具）
 4. 双击 **`启动.bat`** 打开界面
 5. 手机端按 [使用说明.md](使用说明.md) 开启开发者选项 / 开发者模式
