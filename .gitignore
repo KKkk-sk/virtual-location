@@ -1,0 +1,27 @@
+# 虚拟环境与安装产物（不可跨机器搬运）
+.venv/
+venv/
+runtime/
+vendor/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 运行时数据（含个人使用记录，不应提交）
+logs/
+favorites.json
+data/
+checkpoints/
+.ddi/
+*.log
+
+# 打包产物
+dist/
+*.zip
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
